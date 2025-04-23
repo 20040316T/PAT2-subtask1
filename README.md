@@ -10,6 +10,8 @@ Cited Resources:
 1.	Britannica. "Morse Code." Encyclopedia Britannica. https://www.britannica.com/topic/Morse-Code
 2.	FCC. "Morse Code Information." Federal Communications Commission. https://www.fcc.gov/general/morse-code
 3.	National Museum of American History. "Samuel Morse and the Telegraph." Smithsonian Institution. https://americanhistory.si.edu/collections/search/object/nmah_713462
+
+4.	
 Morse code was created in the early 19th century to solve a major communication problem of the time: how to send messages quickly over long distances.
 Historical Context:
 In the 1830s, long-distance communication was extremely slow, relying on physical transport methods like horseback messengers or mail coaches. Messages could take days or even weeks to arrive. The need for faster communication became especially urgent with the rapid expansion of commerce, railroads, and government operations across growing nations like the United States.
@@ -26,3 +28,38 @@ Sources:
 1.	Smithsonian Institution – Samuel Morse and the Telegraph
 2.	Britannica – Morse Code
 3.	Library of Congress – Telegraph and Morse Code
+
+4.	
+How the Morse Code System Works
+Morse code is a method of transmitting text messages using a series of dots (·) and dashes (−), which represent the letters of the alphabet, numbers, and some punctuation marks.
+1. Basic Elements
+•	Dot (·): A short signal (also called a “dit”)
+•	Dash (−): A longer signal (also called a “dah”), typically three times the length of a dot
+For example:
+•	E = · (just a dot)
+•	T = − (just a dash)
+•	A = ·− (dot followed by a dash)
+2. Spacing Rules
+Morse code relies not only on the dots and dashes but also on the spacing between them to convey meaning:
+•	Intra-character space: The space between dots and dashes within the same letter is 1 unit (very short pause).
+•	Inter-character space: The space between different letters is 3 units (short pause).
+•	Word space: The space between words is 7 units (long pause).
+3. Transmission Methods
+Morse code can be sent using various mediums:
+•	Sound: Beeps or clicks (common in radio communications)
+•	Light: Flashing signals (e.g., using a flashlight or lamp)
+•	Visual symbols: Printed dots and dashes
+•	Tactile: Vibrations or tapping (useful for visually or hearing-impaired individuals)
+4. Example
+To send “SOS”:
+•	S = ···
+•	O = −−−
+•	S = ···
+So, “SOS” in Morse code is:
+··· −−− ···
+This signal is universally recognized as a distress call.
+________________________________________
+Sources:
+1.	Britannica – Morse Code
+2.	International Telecommunication Union (ITU) – Morse Code Standard
+3.	ARRL (American Radio Relay League) – Learning Morse Code
