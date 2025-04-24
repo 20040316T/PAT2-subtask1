@@ -1,4 +1,8 @@
-# PAT2-subtask1Morse code is a method of encoding text using sequences of dots (short signals) and dashes (long signals). Developed in the 1830s and 1840s by Samuel Morse and Alfred Vail, it was designed for telegraphy to transmit messages over long distances via electrical pulses or light/sound signals.
+# PAT2-subtask1
+
+WHAT MORSE CODE IS?
+
+Morse code is a method of encoding text using sequences of dots (short signals) and dashes (long signals). Developed in the 1830s and 1840s by Samuel Morse and Alfred Vail, it was designed for telegraphy to transmit messages over long distances via electrical pulses or light/sound signals.
 Each letter and number has a unique code:
 •	A = ·−
 •	B = −···
@@ -11,7 +15,8 @@ Cited Resources:
 2.	FCC. "Morse Code Information." Federal Communications Commission. https://www.fcc.gov/general/morse-code
 3.	National Museum of American History. "Samuel Morse and the Telegraph." Smithsonian Institution. https://americanhistory.si.edu/collections/search/object/nmah_713462
 
-4.	
+ HISTORICAL CONTEXT OF WHY MORSE CODE IS?
+	
 Morse code was created in the early 19th century to solve a major communication problem of the time: how to send messages quickly over long distances.
 Historical Context:
 In the 1830s, long-distance communication was extremely slow, relying on physical transport methods like horseback messengers or mail coaches. Messages could take days or even weeks to arrive. The need for faster communication became especially urgent with the rapid expansion of commerce, railroads, and government operations across growing nations like the United States.
@@ -29,8 +34,8 @@ Sources:
 2.	Britannica – Morse Code
 3.	Library of Congress – Telegraph and Morse Code
 
-4.	
-How the Morse Code System Works
+	
+How the Morse Code System Works.
 Morse code is a method of transmitting text messages using a series of dots (·) and dashes (−), which represent the letters of the alphabet, numbers, and some punctuation marks.
 1. Basic Elements
 •	Dot (·): A short signal (also called a “dit”)
