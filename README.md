@@ -36,6 +36,7 @@ Sources:
 
 	
 How the Morse Code System Works.
+
 Morse code is a method of transmitting text messages using a series of dots (·) and dashes (−), which represent the letters of the alphabet, numbers, and some punctuation marks.
 1. Basic Elements
 •	Dot (·): A short signal (also called a “dit”)
