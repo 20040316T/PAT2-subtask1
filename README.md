@@ -69,3 +69,6 @@ Sources:
 1.	Britannica – Morse Code
 2.	International Telecommunication Union (ITU) – Morse Code Standard
 3.	ARRL (American Radio Relay League) – Learning Morse Code
+
+
+https://github.com/20040316T/PAT2-subtask1.git
