@@ -25,7 +25,7 @@ public:
     }
 
     string textToMorse(const string& text) {
-        string morseCode;
+        string MoseCode;
 
         for (char c : text) {
             c = toupper(c);
