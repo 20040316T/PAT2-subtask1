@@ -45,7 +45,7 @@ int main() {
     string input;
 
     cout << "Enter text to convert to Morse code: ";
-    getline(cin, input);
+    getline(cin, input
 
     string morseCode = generator.textToMorse(input);
     cout << "Morse Code: " << morseCode << endl;
